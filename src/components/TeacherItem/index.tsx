@@ -42,7 +42,7 @@ const TeacherItem:FunctionComponent<TeacherItemProps> = ({ teacher,favorited }) 
     let favoritesArray:Array<Teacher> = [];
 
     if (favorites) {
-      const favoritesArray = JSON.parse(favorites);
+      favoritesArray = JSON.parse(favorites);
     }
 
     if (isFavorited) {
