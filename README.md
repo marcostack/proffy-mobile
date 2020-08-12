@@ -24,4 +24,7 @@
 
 >npm install
 
+>npm run migrate:latest
+
 >npm start
+
