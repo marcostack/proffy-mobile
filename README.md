@@ -2,6 +2,10 @@
 
 ### Run the following command to install and run the application:
 
+>$ git clone http://github.com/marcostack/proffy-mobile
+
+>$ cd proffy-mobile
+
 >$ npm install expo-cli --global
 
 >$ npm install
